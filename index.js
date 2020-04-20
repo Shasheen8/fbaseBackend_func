@@ -8,14 +8,14 @@ admin.initializeApp();
 
 //Intializing the firebase server
 const firebaseConfig = {
-    apiKey: "AIzaSyDfwJ1744Qgtlg2-io1Fgkn0NLZSqQ-yT8",
-    authDomain: "socialthrob-e39f2.firebaseapp.com",
-    databaseURL: "https://socialthrob-e39f2.firebaseio.com",
-    projectId: "socialthrob-e39f2",
-    storageBucket: "socialthrob-e39f2.appspot.com",
-    messagingSenderId: "291996988949",
-    appId: "1:291996988949:web:9fab473647db0e6763801c",
-    measurementId: "G-QN1BS4FWL7"
+    apiKey: "*****************************************",
+    authDomain: "*****************************************",
+    databaseURL: "*****************************************",
+    projectId: "*****************************************",
+    storageBucket: "*****************************************",
+    messagingSenderId: "*****************************************",
+    appId: "*****************************************",
+    measurementId: "*****************************************"
   };
 
 const firebase = require('firebase');
